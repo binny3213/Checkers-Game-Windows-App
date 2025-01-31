@@ -18,14 +18,43 @@ Welcome to the **Checkers Game**, a C# WinForms-based game where you can play Ch
 1. Open **Command Prompt (Windows Terminal)** and run:
    ```bash
    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   
+2. Once downloaded, navigate to the project folder:
+   ```bash
+   cd YOUR_REPOSITORY
 
-### **🔹 Option 2: Download as ZIP**
-If you don't have Git installed, you can manually download the project:
+3. Open the project in Visual Studio by double-clicking CheckersUI.sln.<br>
 
-1.Go to the GitHub Repository: GitHub Link.
-2.Click on the 🔽 Code button.
-3.Select Download ZIP.
-4.Extract the ZIP file to a folder on your computer.
-5.Open Visual Studio and click File > Open > Project/Solution.
-6.Select CheckersUI.sln and click Open.
-7.Press Start (▶️) to build & run the game.
+4. Click Start (▶️) in Visual Studio to run the game.
+
+
+### **🔹 Option 2: Download as ZIP(No Git Required)**
+If you don’t have Git installed or prefer a simple way to download and run the project, follow these steps:
+---
+
+1.Download the Project
+
+- Go to the GitHub Repository: 📦 GitHub Link.
+- Click the 🔽 Code button.
+- Select Download ZIP and wait for the download to complete.
+
+2.Extract the Files
+
+- Locate the downloaded .zip file (usually in your Downloads folder).
+- Right-click the file and choose Extract All....
+- Select a destination folder and click Extract.
+ -Open the Project in Visual Studio
+
+3.Open Visual Studio.
+- Click File > Open > Project/Solution.
+- Navigate to the extracted folder and select CheckersUI.sln.
+- Click Open.
+
+4.Run the Game
+
+- Click the Start (▶️) button in Visual Studio.
+- The Checkers game will launch, and you can start playing!
+---
+
+![image](https://github.com/user-attachments/assets/3dc8f7bb-0066-41f4-b962-de091f61d9d4)
+
