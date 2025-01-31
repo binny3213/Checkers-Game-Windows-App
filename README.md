@@ -56,5 +56,13 @@ If you don’t have Git installed or prefer a simple way to download and run the
 - The Checkers game will launch, and you can start playing!
 ---
 
+# Enjoy the game! 
+### Tools, Framework and language:
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" **alt="C#" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".NET" **alt=".NET" width="40" height="40"/>
+</div>
+<br>
+
 ![image](https://github.com/user-attachments/assets/3dc8f7bb-0066-41f4-b962-de091f61d9d4)
 
